@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/mycompany/java/jsp/hib/maven/spring/mvc/Bundle.properties
+
